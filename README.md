@@ -1,6 +1,7 @@
-# 이력서
+# 김형섭
 Github : https://github.com/pm-10
 Blog : http://sub-dev.tistory.com/
+
 
 # 경력
 
@@ -11,10 +12,12 @@ Blog : http://sub-dev.tistory.com/
 - 2015/02 ~ 2015/08
 
 
+
 # 기타 이력
 
 [CADI](http://cafe.naver.com/teamcadi)
 - 대학생 IT연합 동아리 멘토링, 안드로이드 강의
+
 
 
 ## 프로젝트

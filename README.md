@@ -26,7 +26,7 @@ Blog : http://sub-dev.tistory.com/
 - 소속 : 피알앤디컴퍼니
 - 역할 : 안드로이드 앱 개발 (1인개발)
 - 기간 : 2015/08 ~ 현재
-- 사용기술 : Java, Android, RxJava, Lambda, DataBinding ...
+- 사용기술 : Java, Android, RxJava, Lambda, DataBinding, UI Test ...
 - PlayStore (https://play.google.com/store/apps/details?id=kr.perfectree.heydealer)
 
 <img src="images/heydealer_00.jpeg" width="160"/> <img src="images/heydealer_01.jpeg" width="160"/> <img src="images/heydealer_02.jpeg" width="160"/> <img src="images/heydealer_03.jpeg" width="160"/> <img src="images/heydealer_04.jpeg" width="160"/>
@@ -35,10 +35,10 @@ Blog : http://sub-dev.tistory.com/
 - 소속 : 피알앤디컴퍼니
 - 역할 : 안드로이드 앱 개발 (1인개발)
 - 기간 : 2015/08 ~ 현재
-- 사용기술 : Java, Android, RxJava, Lambda, DataBinding, Firebase(DataBase) ...
+- 사용기술 : Java, Android, RxJava, Lambda, DataBinding, UI Test, Firebase(DataBase) ...
 - PlayStore (https://play.google.com/store/apps/details?id=kr.perfectree.heydealerfordealer)
 
-<img src="images/heydealer_for_dealer_00.jpeg" width="160"/> <img src="images/heydealer_for_dealer_01.jpeg" width="160"/> <img src="images/heydealer_for_dealer_02.jpeg" width="160"/> <img src="images/heydealer_for_dealer_03.jpeg" width="160"/> <img src="images/heydealer_for_dealer_04.jpeg" width="160"/>
+<img src="images/heydealer_for_dealer_00.jpeg" width="160"/> <img src="images/heydealer_for_dealer_01.jpeg" width="160"/> <img src="images/heydealer_for_dealer_02.jpeg" width="160"/> <img src="images/heydealer_for_dealer_03.jpeg" width="160"/> 
 
 ### 카큐™
 정책적으로 핵심기능은 비활성상태

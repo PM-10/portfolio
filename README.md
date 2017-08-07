@@ -1,5 +1,5 @@
 # 김형섭
-Github : https://github.com/pm-10
+Github : https://github.com/pm-10<br/>
 Blog : http://sub-dev.tistory.com/
 
 
@@ -11,7 +11,7 @@ Blog : http://sub-dev.tistory.com/
 [AFIDEV](http://www.afidev.com/)
 - 2015/02 ~ 2015/08
 
-[로체인]
+로체인
 - 2014/10 ~ 2015/01
 
 

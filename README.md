@@ -11,6 +11,9 @@ Blog : http://sub-dev.tistory.com/
 [AFIDEV](http://www.afidev.com/)
 - 2015/02 ~ 2015/08
 
+[로체인]
+- 2014/10 ~ 2015/01
+
 
 
 # 기타 이력
@@ -38,7 +41,7 @@ Blog : http://sub-dev.tistory.com/
 - 사용기술 : Java, Android, RxJava, Lambda, DataBinding, UI Test, Firebase(DataBase) ...
 - PlayStore (https://play.google.com/store/apps/details?id=kr.perfectree.heydealerfordealer)
 
-<img src="images/heydealer_for_dealer_00.jpeg" width="160"/> <img src="images/heydealer_for_dealer_01.jpeg" width="160"/> <img src="images/heydealer_for_dealer_02.jpeg" width="160"/> <img src="images/heydealer_for_dealer_03.jpeg" width="160"/> 
+<img src="images/heydealer_for_dealer_00.jpeg" width="160"/> <img src="images/heydealer_for_dealer_01.jpeg" width="160"/> <img src="images/heydealer_for_dealer_02.jpeg" width="160"/> <img src="images/heydealer_for_dealer_03.jpeg" width="160"/>
 
 ### 카큐™
 정책적으로 핵심기능은 비활성상태
@@ -65,10 +68,9 @@ Blog : http://sub-dev.tistory.com/
 ### 쩐알람
 서비스종료
 
-- 소속팀 : 로체인
-- 역할 : 안드로이드 앱 개발 참여
-- 기간 : 2014/11 ~ 2015/01
+- 소속 : 로체인
+- 역할 : 안드로이드 앱 개발
+- 기간 : 2014/10 ~ 2015/01
 - 사용기술 : Java, Android ...
 
 <img src="images/alarm.jpeg" width="160"/>
-

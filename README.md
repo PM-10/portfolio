@@ -6,7 +6,7 @@ Blog : http://sub-dev.tistory.com/
 # 경력
 
 [피알앤디컴퍼니](http://www.prnd.co.kr/)
-- 2015/08 ~ 현재
+- 2015/08 ~ 2017/09
 
 [AFIDEV](http://www.afidev.com/)
 - 2015/02 ~ 2015/08

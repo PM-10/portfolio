@@ -4,6 +4,8 @@ Blog : http://sub-dev.tistory.com/
 
 
 # 경력
+[쏘카](https://www.socar.kr/)
+- 2017/10 ~ 현재 재직중
 
 [피알앤디컴퍼니](http://www.prnd.co.kr/)
 - 2015/08 ~ 2017/09
@@ -25,10 +27,20 @@ Blog : http://sub-dev.tistory.com/
 
 # 프로젝트
 
+### 관광가이드앱
+- 소속 : 쏘카
+- 역할 : 안드로이드 앱 개발 (1인개발)
+- 기간 : 2017/11 ~ 2018/01
+- 사용기술 : Kotlin, Android, Realm ...
+
+<img src="images/tour1.png" width="320"/> <img src="images/tour2.png" width="320"/>
+<img src="images/tour3.png" width="320"/> <img src="images/tour4.png" width="320"/>
+
+
 ### 헤이딜러
 - 소속 : 피알앤디컴퍼니
 - 역할 : 안드로이드 앱 개발 (1인개발)
-- 기간 : 2015/08 ~ 현재
+- 기간 : 2015/08 ~ 2017/09
 - 사용기술 : Java, Android, RxJava, Lambda, DataBinding, UI Test ...
 - PlayStore (https://play.google.com/store/apps/details?id=kr.perfectree.heydealer)
 

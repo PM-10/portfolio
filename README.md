@@ -40,6 +40,10 @@ Android Developer
 - 기간 : 2018/07 ~ 2019/10
 - 사용기술 : React Native, Node.js, Ext.js ...
 
+<img src="images/socar1.jpeg" width="160"/>
+<img src="images/socar2.jpeg" width="160"/>
+<img src="images/socar3.jpeg" width="160"/>
+
 ### 쏘카 글로벌 프로젝트
 - 소속 : 쏘카
 - 역할 : 쏘카 말레이시아 현지 서비스 개발

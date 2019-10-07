@@ -40,7 +40,7 @@ Android Developer
 - 기간 : 2018/07 ~ 2019/10
 - 사용기술 : React Native, Node.js, Ext.js ...
 
-<img src="images/socar1.jpg" width="160"/> <img src="images/socar2.jpg" width="160"/> <img src="images/socar3.jpg" width="160"/>
+<img src="images/socar1.jpg" width="200"/>  <img src="images/socar2.jpg" width="200"/>  <img src="images/socar3.jpg" width="200"/>
 
 ### 쏘카 글로벌 프로젝트
 - 소속 : 쏘카
@@ -56,7 +56,7 @@ Android Developer
 
 ### 관광가이드앱
 - 소속 : 쏘카
-- 역할 : 안드로이드 앱 개발 (1인개발)
+- 역할 : 쏘카 차량 디바이스용 안드로이드 앱 개발 (1인개발)
 - 기간 : 2017/11 ~ 2018/01
 - 사용기술 : Kotlin, Android, Realm ...
 

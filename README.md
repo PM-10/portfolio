@@ -38,7 +38,7 @@ Android Developer
 - 소속 : 쏘카 말레이시아
 - 역할 : 쏘카 말레이시아 코어 앱서비스 팀 리드 및 팀 빌딩
 - 기간 : 2018/07 ~ 2019/10
-- 사용기술 : React Native, Node.js, Ext.js ...
+- 사용기술 : React Native, Node.js, Ext.js, docker, code push, serverless framework ...
 
 <img src="images/socar1.jpg" width="200"/>  <img src="images/socar2.jpg" width="200"/>  <img src="images/socar3.jpg" width="200"/>
 

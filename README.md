@@ -1,5 +1,5 @@
 # 김형섭
-Email : show9114@gmail.com
+Email : show9114@gmail.com<br/>
 Github : https://github.com/pm-10<br/>
 Blog : https://blog.gibsonkim.dev/
 

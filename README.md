@@ -1,15 +1,14 @@
 # 김형섭
 Email : show9114@gmail.com<br/>
 Github : https://github.com/pm-10<br/>
-Blog : https://blog.gibsonkim.dev/
 
 
 # 경력
 [코드42](https://www.code42.ai/)
 Android Developer
-- 2018/07 ~ 재직중
+- 2019/11 ~ 재직중
 
-[쏘카 말레이시아](https://www.socar.my/)
+[SOCAR MOBILITY MALAYSIA](https://www.socar.my/)
 Core app developer ( Team Leader )
 - 2018/07 ~ 2019/11
 

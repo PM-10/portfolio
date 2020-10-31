@@ -4,7 +4,7 @@ Github : https://github.com/pm-10<br/>
 
 
 # 경력
-[코드42](https://www.code42.ai/)
+[포티투닷 (코드42)](https://www.code42.ai/)
 Android Developer
 - 2019/11 ~ 재직중
 

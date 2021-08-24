@@ -4,9 +4,13 @@ Github : https://github.com/pm-10<br/>
 
 
 # 경력
+[두나무](https://dunamu.com/)
+Android Developer
+- 2021/06 ~ 재직중
+- 
 [포티투닷 (코드42)](https://www.code42.ai/)
 Android Developer
-- 2019/11 ~ 재직중
+- 2019/11 ~ 2021/05
 
 [SOCAR MOBILITY MALAYSIA](https://www.socar.my/)
 Core app developer ( Team Leader )
@@ -26,11 +30,17 @@ Android Developer
 
 
 # 프로젝트
-### 모빌티 앱 서비스 ( 서비스 예정 )
+### 증권플러스 거래모듈
+- 소속 : 두나무
+- 역할 : 모빌리티 서비스 안드로이드 앱 개발
+- 기간 : 2021/06 ~ 진행중
+- 사용기술 : Kotlin, Koin, Mapbox, Android, MVVM, Grpc, Firebase ...
+- 
+### 모빌티 앱 서비스
 - 소속 : 코드42
 - 역할 : 모빌리티 서비스 안드로이드 앱 개발
-- 기간 : 2019/11 ~ 진행중
-- 사용기술 : Kotlin, Koin, Mapbox, Android, MVVM, Grpc, Firebase ...
+- 기간 : 2019/11 ~ 2021/05
+- 사용기술 : Kotlin, AAC, Hilt, Mapbox, MVVM, Firebase ...
 
 ### 쏘카 말레이시아 코어 앱서비스
 - 소속 : 쏘카 말레이시아
